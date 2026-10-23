@@ -1,0 +1,1 @@
+An interactive Microsoft Excel dashboard for analyzing revenue, profitability, orders, regional performance, sales channels, and product sales using Pivot Tables, Pivot Charts, KPI cards, and slicers.
